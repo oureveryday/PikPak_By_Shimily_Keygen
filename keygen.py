@@ -1,6 +1,5 @@
 import hashlib
 import hmac
-import requests
 
 key='lovePikPak#520_Shimily'
 print("\n")
