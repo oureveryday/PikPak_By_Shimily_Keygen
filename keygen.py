@@ -1,4 +1,3 @@
-import hashlib
 import hmac
 
 key='lovePikPak#520_Shimily'
